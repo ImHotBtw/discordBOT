@@ -504,4 +504,4 @@ function eightballCommand(arguments, message) {
     message.channel.send("Very doubtful.")
     console.log("Very doubtful.")
   }}
-client.login("NzYyNjQxMjgwNTg4ODQxMDAx.X3sHCg.yj1sFu295W4NvY7t0Vp8QTpK9TI")
+client.login("NzYyNjQxMjgwNTg4ODQxMDAx.X3sHCg.DkHJjl2S-1Fj6kWEPEbqh-0luDM")
